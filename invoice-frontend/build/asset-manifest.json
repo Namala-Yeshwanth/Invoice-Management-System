@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Invoice-Management-System/static/css/main.646cc060.css",
+    "main.js": "/Invoice-Management-System/static/js/main.1a57af78.js",
+    "static/js/453.0bc6e71c.chunk.js": "/Invoice-Management-System/static/js/453.0bc6e71c.chunk.js",
+    "index.html": "/Invoice-Management-System/index.html",
+    "main.646cc060.css.map": "/Invoice-Management-System/static/css/main.646cc060.css.map",
+    "main.1a57af78.js.map": "/Invoice-Management-System/static/js/main.1a57af78.js.map",
+    "453.0bc6e71c.chunk.js.map": "/Invoice-Management-System/static/js/453.0bc6e71c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.646cc060.css",
+    "static/js/main.1a57af78.js"
+  ]
+}
