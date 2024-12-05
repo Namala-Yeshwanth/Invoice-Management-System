@@ -1,7 +1,7 @@
 // src/services/api.js
 import axios from 'axios';
 
-const API_URL = 'http://127.0.0.1:8000/api';  // Adjust this URL based on your Django server
+const API_URL = 'https://invoice-management-system-qbm4.onrender.com/api';  // Adjust this URL based on your Django server
 
 // // Get all invoices
 // export const getInvoices = async (page=1, rowsPerPage=5) => {
