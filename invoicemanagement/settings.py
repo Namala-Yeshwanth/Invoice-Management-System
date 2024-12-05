@@ -29,7 +29,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'invoice-management-system-qbm4.onrender.com',]
+    'invoice-management-system-qbm4.onrender.com',
+]
 
 
 # Application definition
